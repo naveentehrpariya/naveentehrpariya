@@ -78,14 +78,5 @@
   <a  href="https://www.instagram.com/_nvn_tehrpariya/" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/naveentehrpariya/naveentehrpariya/output/snake.svg"  />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4"  />
-</div>
 
 ###
