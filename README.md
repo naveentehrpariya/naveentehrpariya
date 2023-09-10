@@ -6,7 +6,6 @@
 
 ###
 
-
 <h3 align="left">About me</h3>
 
 ###
@@ -74,11 +73,11 @@
     display: flex;
     justify-content: center;
 " >
-  <a style="display:inline-block;" href="https://www.linkedin.com/in/naveentehrpariya/" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/naveentehrpariya/" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
 
-  <a style="display:inline-block;" href="https://twitter.com/nvn_tehrpariya" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
+  <a  href="https://twitter.com/nvn_tehrpariya" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
 
-  <a style="display:inline-block;" href="https://www.instagram.com/_nvn_tehrpariya/" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
+  <a  href="https://www.instagram.com/_nvn_tehrpariya/" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
   
 </div>
 
