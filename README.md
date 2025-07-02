@@ -1,29 +1,46 @@
-<h1 align="center">Hey 👋 I'm Naveen Tehrpariya</h1>
+<h1 align="center">Hi there, I'm Naveen Tehrpariya 👋</h1>
 
 <p align="center">
-  🔧 Full Stack MERN Developer <br/>
-  🏠 Based in Jaipur, India <br/>
-  🚀 Building cool stuff and breaking things since 2018
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;Cloud+and+DevOps+Enthusiast;Open+Source+Lover;Building+since+2018" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎯 Focused on building scalable products that solve real problems.
-- 🧠 Constant learner – I grow with every bug I fix (or create 😅).
-- 📚 Currently sharpening my skills in system design, PostgreSQL, and microservices.
-- 🤝 Always happy to collaborate on interesting projects.
+- 🔧 Full Stack Developer with love for scalable systems
+- 🚀 I build production-ready web apps in MERN, Tailwind, and AWS
+- 📚 Lifelong learner: PostgreSQL, Docker, Kafka, and beyond
+- 🧩 Solving problems with clean code and coffee
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Fun Facts About Me
+
+- 🐞 Been creating & fixing bugs since 2018
+- 🌱 I believe "Reading code is as important as writing it"
+- 🧩 I love turning complex problems into simple solutions
+- 🎨 I sometimes design in Adobe Illustrator just for fun
+
+---
+
+## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,tailwind,jquery,angular" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,tailwind,html,css,angular,jquery" height="40"/>
   <br />
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,webpack,cloudflare,aws,gcp,ai" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,webpack,cloudflare,aws,gcp,docker,vscode,ai" height="40"/>
 </div>
+
+---
+
+## 🌟 Project Spotlight
+
+| Project | Description | Links |
+|--------|-------------|-------|
+| 🛒 **Spenny Piggy** | A platform for creators to receive gifts via Stripe Connect | [Repo](https://github.com/naveentehrpariya/spenny-piggy) · [Live](https://spenny.live) |
+| 🧾 **Logistikore** | A logistics SaaS with multi-role access and order management | Private |
+| 🎾 **Tennis Khelo** | A sports portal with ITF integration and dynamic SEO | [Live](https://tenniskhelo.com) |
 
 ---
 
@@ -36,7 +53,15 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=naveentehrpariya&theme=radical&hide_border=false" />
+</div>
+
+---
+
+## 🌐 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/naveentehrpariya/" target="_blank">
@@ -52,24 +77,14 @@
 
 ---
 
+## 💬 Let’s Talk!
+
+If you have a project idea, a bug to fix, or just want to geek out about tech, feel free to **DM me** or drop a message on [LinkedIn](https://www.linkedin.com/in/naveentehrpariya/). I’m always up for collaborating!
+
+---
+
 ## 🧮 Profile Visitors
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/naveentehrpariya/count.svg?" />
 </div>
-
----
-
-## 💡 Quote I Live By
-
-> *"First, solve the problem. Then, write the code."* – John Johnson
-
----
-
-<!-- Optional: Add a cool GitHub activity graph -->
-<!--
-## 📈 Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naveentehrpariya&theme=dracula&hide_border=true)
--->
-
