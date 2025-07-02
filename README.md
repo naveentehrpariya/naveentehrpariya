@@ -1,28 +1,27 @@
 <h1 align="center">Hey 👋, I'm Naveen Tehrpariya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;DevOps+and+Cloud+Enthusiast;Open+Source+Lover;Based+in+Jaipur%2C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;DevOps+and+Cloud+Enthusiast;Open+Source+Lover;Based+in+Jaipur%2C+India" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Full Stack Developer (React, Node.js, MongoDB)
+- 🔭 Full Stack Developer (React, Node.js, MongoDB, Python, PostgresQL, Vue.js)
 - 🚀 Building production-ready SaaS apps and custom admin panels
 - ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.json`, `.sh`
 - 🧠 Constantly learning — PostgreSQL, GraphQL, Redis, Docker, Microservices
-- 🗃️ Fun Fact: I debug faster when I talk to my rubber duck 🐥
 
 ---
 
 ## 🎯 Currently Working On
 
-- 🛠️ A logistics SaaS product `Logistikore`
+- 🛠️ A logistics SaaS product
 - 💳 Advanced Stripe Connect flows for creator economy
 - 🎧 A podcast platform with dynamic RSS & auto-publish
 - 📅 WordPress site manager dashboard (React + Mongo + WP JSON APIs)
-
+- 
 ---
 
 ## 📚 Learning and Exploring
@@ -49,7 +48,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naveentehrpariya&theme=radical&column=6&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=naveentehrpariya&theme=radical&column=6&margin-w=30&margin-h=20" />
 </p>
 
 ---
