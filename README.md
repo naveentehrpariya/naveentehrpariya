@@ -37,12 +37,15 @@
 
 <div align="left">
   BACKEND
+  <br />
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,graphql" height="40"/>
   <br />
   FRONTEND
+  <br />
   <img src="https://skillicons.dev/icons?i=tailwind,html,css,sass,webpack,jquery" height="40"/>
   <br />
   SERVICES
+  <br />
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,cloudflare,aws,gcp,linux" height="40"/>
 </div>
 
