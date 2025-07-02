@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Naveen Tehrpariya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer DevOps+and+Cloud+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;DevOps+and+Cloud+Enthusiast;Open+Source+Lover;Based+in+Jaipur%2C+India" alt="Typing SVG" />
 </p>
 
 ---
