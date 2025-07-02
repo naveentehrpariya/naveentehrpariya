@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Naveen Tehrpariya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;DevOps+and+Cloud+Enthusiast;Open+Source+Lover;Based+in+Jaipur%2C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer DevOps+and+Cloud+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -36,10 +36,13 @@
 ## 🧰 My Dev Toolbox
 
 <div align="center">
+  BACKEND
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,graphql" height="40"/>
   <br />
+  FRONTEND
   <img src="https://skillicons.dev/icons?i=tailwind,html,css,sass,webpack,jquery" height="40"/>
   <br />
+  SERVICES
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,cloudflare,aws,gcp,linux" height="40"/>
 </div>
 
@@ -62,23 +65,6 @@
 
 ---
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=naveentehrpariya&theme=radical&hide_border=false" />
-</p>
-
----
-
-## 🐍 Watch My Contributions Grow!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/naveentehrpariya/naveentehrpariya/output/github-contribution-grid-snake.svg" />
-</p>
-
-> ☝️ To enable this, you’ll need a GitHub Action script set up in your profile repo. Want help with that?
-
----
 
 ## 📈 Activity Graph
 
@@ -93,7 +79,6 @@
 | Project | Description | Links |
 |--------|-------------|-------|
 | 🛒 Spenny Piggy | Creator marketplace with Stripe Connect and admin panel | [GitHub](https://github.com/naveentehrpariya) |
-| 📦 Logistikore | SaaS logistics tool with multi-role dashboard & geofencing | Private |
 | 🎾 Tennis Khelo | ITF-based player portal with automated SEO | [Live](https://tenniskhelo.com) |
 
 ---
