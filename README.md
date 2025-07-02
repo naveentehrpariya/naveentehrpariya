@@ -1,90 +1,136 @@
-<h1 align="center">Hi there, I'm Naveen Tehrpariya 👋</h1>
+<h1 align="center">Hey 👋, I'm Naveen Tehrpariya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;Cloud+and+DevOps+Enthusiast;Open+Source+Lover;Building+since+2018" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;DevOps+and+Cloud+Enthusiast;Open+Source+Lover;Based+in+Jaipur%2C+India" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔧 Full Stack Developer with love for scalable systems
-- 🚀 I build production-ready web apps in MERN, Tailwind, and AWS
-- 📚 Lifelong learner: PostgreSQL, Docker, Kafka, and beyond
-- 🧩 Solving problems with clean code and coffee
+- 🔭 Full Stack Developer (React, Node.js, MongoDB)
+- 🚀 Building production-ready SaaS apps and custom admin panels
+- ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.json`, `.sh`
+- 🧠 Constantly learning — PostgreSQL, GraphQL, Redis, Docker, Microservices
+- 🗃️ Fun Fact: I debug faster when I talk to my rubber duck 🐥
 
 ---
 
-## 🧠 Fun Facts About Me
+## 🎯 Currently Working On
 
-- 🐞 Been creating & fixing bugs since 2018
-- 🌱 I believe "Reading code is as important as writing it"
-- 🧩 I love turning complex problems into simple solutions
-- 🎨 I sometimes design in Adobe Illustrator just for fun
+- 🛠️ A logistics SaaS product `Logistikore`
+- 💳 Advanced Stripe Connect flows for creator economy
+- 🎧 A podcast platform with dynamic RSS & auto-publish
+- 📅 WordPress site manager dashboard (React + Mongo + WP JSON APIs)
 
 ---
 
-## 🚀 Tech Stack
+## 📚 Learning and Exploring
+
+- 🐘 PostgreSQL with Node.js
+- 🐳 Docker & CI/CD pipelines
+- 🌐 WebSockets, MQTT for real-time tracking
+- 🏗️ Microservices and event-driven architecture
+
+---
+
+## 🧰 My Dev Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,tailwind,html,css,angular,jquery" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,graphql" height="40"/>
   <br />
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,webpack,cloudflare,aws,gcp,docker,vscode,ai" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind,html,css,sass,webpack,jquery" height="40"/>
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,cloudflare,aws,gcp,linux" height="40"/>
 </div>
 
 ---
 
-## 🌟 Project Spotlight
+## 🏆 GitHub Trophies
 
-| Project | Description | Links |
-|--------|-------------|-------|
-| 🛒 **Spenny Piggy** | A platform for creators to receive gifts via Stripe Connect | [Repo](https://github.com/naveentehrpariya/spenny-piggy) · [Live](https://spenny.live) |
-| 🧾 **Logistikore** | A logistics SaaS with multi-role access and order management | Private |
-| 🎾 **Tennis Khelo** | A sports portal with ITF integration and dynamic SEO | [Live](https://tenniskhelo.com) |
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naveentehrpariya&theme=radical&column=6&margin-w=10&margin-h=10" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naveentehrpariya&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveentehrpariya&layout=compact&theme=radical&langs_count=6" height="150"/>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveentehrpariya&layout=compact&theme=radical" height="150"/>
+</p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Streak Stats
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=naveentehrpariya&theme=radical&hide_border=false" />
-</div>
+</p>
 
 ---
 
-## 🌐 Let's Connect
+## 🐍 Watch My Contributions Grow!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naveentehrpariya/naveentehrpariya/output/github-contribution-grid-snake.svg" />
+</p>
+
+> ☝️ To enable this, you’ll need a GitHub Action script set up in your profile repo. Want help with that?
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveentehrpariya&theme=dracula" />
+</p>
+
+---
+
+## 🗂️ Featured Projects
+
+| Project | Description | Links |
+|--------|-------------|-------|
+| 🛒 Spenny Piggy | Creator marketplace with Stripe Connect and admin panel | [GitHub](https://github.com/naveentehrpariya) |
+| 📦 Logistikore | SaaS logistics tool with multi-role dashboard & geofencing | Private |
+| 🎾 Tennis Khelo | ITF-based player portal with automated SEO | [Live](https://tenniskhelo.com) |
+
+---
+
+## 🧑‍💻 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/naveentehrpariya/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <a href="https://linkedin.com/in/naveentehrpariya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://twitter.com/nvn_tehrpariya" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
   </a>
-  <a href="https://www.instagram.com/_nvn_tehrpariya/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  <a href="https://instagram.com/_nvn_tehrpariya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
 </div>
 
 ---
 
-## 💬 Let’s Talk!
+## 💬 Let’s Collaborate
 
-If you have a project idea, a bug to fix, or just want to geek out about tech, feel free to **DM me** or drop a message on [LinkedIn](https://www.linkedin.com/in/naveentehrpariya/). I’m always up for collaborating!
+Got a cool idea? Need help with your full stack product?  
+Let’s build something awesome together — DM me or connect on [LinkedIn](https://linkedin.com/in/naveentehrpariya)!
 
 ---
 
-## 🧮 Profile Visitors
+## 📬 Newsletter & Blog
 
-<div align="center">
+📢 Coming soon! I’ll be sharing dev tips, SaaS ideas, tech breakdowns and more.  
+**Subscribe once it’s live → `naveentehrpariya.today/blog`**
+
+---
+
+## 📍 Visitor Counter
+
+<p align="center">
   <img src="https://profile-counter.glitch.me/naveentehrpariya/count.svg?" />
-</div>
+</p>
