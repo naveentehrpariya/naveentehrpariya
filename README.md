@@ -51,6 +51,24 @@
 
 ---
 
+
+
+## 🧑‍💻 Connect With Me
+
+<div align="left">
+  <a href="https://linkedin.com/in/naveentehrpariya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://twitter.com/nvn_tehrpariya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+  </a>
+  <a href="https://instagram.com/_nvn_tehrpariya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+</div>
+---
+
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -61,9 +79,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveentehrpariya&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width='48%' height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveentehrpariya&layout=compact&theme=radical"  width='48%' height="150"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=naveentehrpariya&show_icons=true&theme=radical&include_all_commits=true&count_private=true"   height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveentehrpariya&layout=compact&theme=radical"   height="150"/>
 </p>
 
 ---
@@ -84,21 +102,7 @@
 | 🛒 Spenny Piggy | Creator marketplace with Stripe Connect and admin panel | [GitHub](https://github.com/naveentehrpariya) |
 | 🎾 Tennis Khelo | ITF-based player portal with automated SEO | [Live](https://tenniskhelo.com) |
 
----
 
-## 🧑‍💻 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/naveentehrpariya" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://twitter.com/nvn_tehrpariya" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-  </a>
-  <a href="https://instagram.com/_nvn_tehrpariya" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
-</div>
 
 ---
 
