@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Naveen Tehrpariya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer DevOps+and+Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer DevOps+and+Cloud+Enthusiast;" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,7 +21,6 @@
 - 💳 Advanced Stripe Connect flows for creator economy
 - 🎧 A podcast platform with dynamic RSS & auto-publish
 - 📅 WordPress site manager dashboard (React + Mongo + WP JSON APIs)
-- 
 ---
 
 ## 📚 Learning and Exploring
@@ -66,13 +65,13 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
 </div>
----
+ 
 
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naveentehrpariya&theme=radical&column=6&margin-w=30&margin-h=20" />
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=naveentehrpariya&theme=radical&column=6&margin-w=10&margin-h=10" />
 </p>
 
 ---
