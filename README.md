@@ -71,7 +71,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=naveentehrpariya&theme=radical&column=6&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=naveentehrpariya&theme=radical&column=6&margin-w=8&margin-h=8" />
 </p>
 
 ---
