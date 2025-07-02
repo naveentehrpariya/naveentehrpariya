@@ -35,7 +35,7 @@
 
 ## 🧰 My Dev Toolbox
 
-<div align="center">
+<div align="left">
   BACKEND
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,graphql" height="40"/>
   <br />
